@@ -1,19 +1,15 @@
- System.out.printf("%-10s  %8.2f       %6d\n", "Computer", 4.5,        10);
-    System.out.printf("%-10s  %8.2f       %6d\n", "Student ", 2.75,     120);
-    System.out.printf("%-10s  %8.2f       %6d\n", "Cat", 10.0,     6);
-    System.out.printf("%-10s  %8.2f       %6d\n", "Penguin", 4.5,     10);
-    System.out.printf("%-10s  %8.2f       %6d\n", "Machine", 2.75,     120);
-    System.out.printf("%-10s  %8.2f       %6d\n", "Nature", 10.0,     6);
-    System.out.printf("%-10s  %8.2f       %6d\n", "Ligh", 4.5,     10);
-    System.out.printf("%-10s  %8.2f       %6d\n", "Green", 2.75,     120);
-    System.out.printf("%-10s  %8.2f       %6d\n", "Book", 10.0,     6);
-    System.out.printf("%-10s  %8.2f       %6d\n", "Pyramid", 10.0,    6);
 
+    package Ejercicios01;
 
-    │
-    │
-    │
-    │
-    │
-    │
-    
+public class Ejercicio4 {
+    public static void main(String[] args) {
+    System.out.println("┌────────┬───────────┬──────────┬───────────┬───────────┬───────────┐");
+    System.out.println("│ hora   │ Lunes     │ Martes   │ Miercoles │ Jueves    │ Viernes   │");        
+    System.out.println("├────────┼───────────┼──────────┼───────────┼───────────┼───────────┤"); 
+    System.out.printf("│ %s  │ %-8s  │%-8s  │%-8s  │%-8s   │%-8s   │\n",  "08:15", "Sistemas", " Prog", " Sistemas", " Prog", " xxxxx");
+    System.out.printf("│ %s  │ %-8s  │%-8s  │%-8s  │%-8s   │%-8s   │\n",  "09:15", "Sistemas", " Prog", " Sistemas", " Prog", " xxxxx");
+    System.out.printf("│ %s  │ %-8s  │%-8s  │%-8s  │%-8s   │%-8s   │\n",  "10:15", "Sistemas", " Prog", " Sistemas", " Prog", " xxxxx");
+    System.out.printf("│ %s  │ %-8s  │%-8s  │%-8s  │%-8s   │%-8s   │\n",  "11:45", "Sistemas", " Prog", " xxxxxxxx", " BBDD", " xxxxx");
+    System.out.printf("│ %s  │ %-8s  │%-8s  │%-8s  │%-8s   │%-8s   │\n",  "12:40", "Sistemas", " xxxx", " xxxxxxxx", " BBDD", " xxxxx");
+    System.out.printf("│ %s  │ %-8s  │%-8s  │%-8s  │%-8s   │%-8s   │\n",  "13:35", "Sistemas", " xxxx", " xxxxxxxx", " BBDD", " xxxxx");
+    System.out.println("└────────┴───────────┴──────────┴───────────┴───────────┴───────────┘");
