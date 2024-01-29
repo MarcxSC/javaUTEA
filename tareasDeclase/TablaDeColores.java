@@ -1,3 +1,4 @@
+package tareasDeclase;
 public class TablaDeColores {
     public static void main(String[] args) {
     System.out.println("┌────────┬───────────┬───────┬─────────────────┐");

@@ -1,0 +1,266 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejercicio9",
+            "request": "launch",
+            "mainClass": "Ejercicios03.Ejercicio9",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio8",
+            "request": "launch",
+            "mainClass": "Ejercicios03.Ejercicio8",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicios03.Ejercicio7",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicios03.Ejercicio6",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicios01.Ejercicio1",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicios01.Ejercicio2",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3",
+            "request": "launch",
+            "mainClass": "Ejercicios01.Ejercicio3",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4",
+            "request": "launch",
+            "mainClass": "Ejercicios01.Ejercicio4",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5",
+            "request": "launch",
+            "mainClass": "Ejercicios01.Ejercicio5",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicios01.Ejercicio6",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicios01.Ejercicio7",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio8",
+            "request": "launch",
+            "mainClass": "Ejercicios01.Ejercicio8",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios02.Ejercicio1",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios02.Ejercicio2",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios02.Ejercicio3",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios02.Ejercicio4",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios02.Ejercicio5",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6(1)",
+            "request": "launch",
+            "mainClass": "Ejercicios02.Ejercicio6",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1(2)",
+            "request": "launch",
+            "mainClass": "Ejercicios03.Ejercicio1",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2(2)",
+            "request": "launch",
+            "mainClass": "Ejercicios03.Ejercicio2",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3(2)",
+            "request": "launch",
+            "mainClass": "Ejercicios03.Ejercicio3",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4(2)",
+            "request": "launch",
+            "mainClass": "Ejercicios03.Ejercicio4",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5(2)",
+            "request": "launch",
+            "mainClass": "Ejercicios03.Ejercicio5",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "LecturaTeclado",
+            "request": "launch",
+            "mainClass": "LecturaTeclado",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "LeeDatosScanner",
+            "request": "launch",
+            "mainClass": "LeeDatosScanner",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "LeeDatosScanner2",
+            "request": "launch",
+            "mainClass": "LeeDatosScanner2",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "LeeNumeros",
+            "request": "launch",
+            "mainClass": "LeeNumeros",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "MediaAritmetica",
+            "request": "launch",
+            "mainClass": "MediaAritmetica",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "CaracteresEspeciales01",
+            "request": "launch",
+            "mainClass": "tareasDeclase.CaracteresEspeciales01",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "CaracteresEspeciales02",
+            "request": "launch",
+            "mainClass": "tareasDeclase.CaracteresEspeciales02",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "SalidaFormateada",
+            "request": "launch",
+            "mainClass": "tareasDeclase.SalidaFormateada",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "SalidaFormateada02",
+            "request": "launch",
+            "mainClass": "tareasDeclase.SalidaFormateada02",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "TablaDeColores",
+            "request": "launch",
+            "mainClass": "tareasDeclase.TablaDeColores",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "tareasDeclase.Variables",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "colores",
+            "request": "launch",
+            "mainClass": "tareasDeclase.colores",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "holaMundo",
+            "request": "launch",
+            "mainClass": "tareasDeclase.holaMundo",
+            "projectName": "javaUTEA_2403ced3"
+        }
+    ]
+}

@@ -1,3 +1,4 @@
+package tareasDeclase;
 public class SalidaFormateada {
     public static void main(String[] args) {
         System.out.print("El número 21 no tiene decimales. \n");

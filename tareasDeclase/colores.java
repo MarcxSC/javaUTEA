@@ -1,3 +1,4 @@
+package tareasDeclase;
 public class colores {
  public static void main(String [] argus){
     System.out.print("\033[33m mandarina");
