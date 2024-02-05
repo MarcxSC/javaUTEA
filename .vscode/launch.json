@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicos05.Ejercicio1",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "SwitchHora",
             "request": "launch",
             "mainClass": "EjerciciosEnClases.SwitchHora",
