@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio10",
+            "request": "launch",
+            "mainClass": "Ejercicos05.Ejercicio10",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio9",
+            "request": "launch",
+            "mainClass": "Ejercicos05.Ejercicio9",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicos05.Ejercicio7",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicos05.Ejercicio6",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5",
+            "request": "launch",
+            "mainClass": "Ejercicos05.Ejercicio5",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4",
+            "request": "launch",
+            "mainClass": "Ejercicos05.Ejercicio4",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3",
+            "request": "launch",
+            "mainClass": "Ejercicos05.Ejercicio3",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicos05.Ejercicio2",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio1",
             "request": "launch",
             "mainClass": "Ejercicos05.Ejercicio1",
