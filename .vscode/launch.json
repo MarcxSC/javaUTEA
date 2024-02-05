@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchHora",
+            "request": "launch",
+            "mainClass": "EjerciciosEnClases.SwitchHora",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "x",
+            "request": "launch",
+            "mainClass": "EjerciciosEnClases.x",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCURSOS",
+            "request": "launch",
+            "mainClass": "EjerciciosEnClases.SwitchCURSOS",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "MenuSwiitch",
+            "request": "launch",
+            "mainClass": "tareasDeclase.MenuSwiitch",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "SentenciaSwitch",
             "request": "launch",
             "mainClass": "tareasDeclase.SentenciaSwitch",
