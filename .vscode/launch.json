@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SentenciaSwitch",
+            "request": "launch",
+            "mainClass": "tareasDeclase.SentenciaSwitch",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "TabladeVerdad",
+            "request": "launch",
+            "mainClass": "tareasDeclase.TabladeVerdad",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "EJERCICIODESENTENCIAL",
+            "request": "launch",
+            "mainClass": "tareasDeclase.EJERCICIODESENTENCIAL",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Compararacion01",
+            "request": "launch",
+            "mainClass": "Compararacion01",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Comparacionif",
+            "request": "launch",
+            "mainClass": "Comparacionif",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio9",
             "request": "launch",
             "mainClass": "Ejercicios03.Ejercicio9",
