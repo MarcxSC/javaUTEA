@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio4",
+            "request": "launch",
+            "mainClass": "EXpANTHONYSANTECHIPA.Ejercicio4",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3",
+            "request": "launch",
+            "mainClass": "EXpANTHONYSANTECHIPA.Ejercicio3",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5",
+            "request": "launch",
+            "mainClass": "EXpANTHONYSANTECHIPA.Ejercicio5",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Pregunta2",
+            "request": "launch",
+            "mainClass": "EXpANTHONYSANTECHIPA.Pregunta2",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Pregunta1",
+            "request": "launch",
+            "mainClass": "EXpANTHONYSANTECHIPA.Pregunta1",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Pregunta1",
+            "request": "launch",
+            "mainClass": "Pregunta1",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio10",
             "request": "launch",
             "mainClass": "Ejercicos05.Ejercicio10",
