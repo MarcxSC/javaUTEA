@@ -1,6 +1,7 @@
-package EXpANTHONYSANTECHIPA;
+package EXpAnthonysantechipa01;
 import java.util.Scanner;
-public class Ejercicio4 {
+// Importa la clase Scanner del paquete java.util
+public class Pregunta4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // solicitar al usuario que ingrese su fecha de nacimiento
@@ -57,4 +58,3 @@ public class Ejercicio4 {
         return suma;
     }
 }
-

@@ -1,6 +1,7 @@
-package EXpANTHONYSANTECHIPA;
+package EXpAnthonysantechipa01;
 import java.util.Scanner;
-public class Ejercicio3 {
+// Importa la clase Scanner del paquete java.util
+public class Pregunta3 {
     public static void main(String[] args) {
         double gravedad = 9.81;   // Constante de aceleración gravitacional
         Scanner scanner = new Scanner(System.in);
@@ -21,4 +22,3 @@ public class Ejercicio3 {
         // Cierra el escáner cuando ya no sea necesario
     }
 }
-

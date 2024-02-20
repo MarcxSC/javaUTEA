@@ -1,5 +1,6 @@
-package EXpANTHONYSANTECHIPA;
+package EXpAnthonysantechipa01;
 import java.util.Scanner;
+// Importa la clase Scanner del paquete java.util
 public class Pregunta2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -39,5 +40,5 @@ public class Pregunta2 {
             + " introducciones en total.");
     // Imprime la cantidad total de números ingresados
         }
-    }
-            
+ } 
+

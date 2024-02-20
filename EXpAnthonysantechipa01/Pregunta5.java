@@ -1,6 +1,6 @@
-package EXpANTHONYSANTECHIPA;
+package EXpAnthonysantechipa01;
 
-public class Ejercicio5 {
+public class Pregunta5 {
     public static void main(String[] args) {
         //solicita al usuario ingresar diez números enteros
         System.out.println("Por favor, introduzca 10 números enteros: ");
