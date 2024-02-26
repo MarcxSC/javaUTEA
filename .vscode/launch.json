@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bucles",
+            "request": "launch",
+            "mainClass": "tareasDeclase.Bucles",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "Pregunta5",
             "request": "launch",
             "mainClass": "EXpAnthonysantechipa01.Pregunta5",
