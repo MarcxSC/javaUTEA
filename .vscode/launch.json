@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "NumerosAleatorios.EerciciosDeNumerosAleatorios.Ejercicio2",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "ejercicios1",
+            "request": "launch",
+            "mainClass": "NumerosAleatorios.EerciciosDeNumerosAleatorios.ejercicios1",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "NumerosAleatorios",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "BuclesWHILE2",
             "request": "launch",
             "mainClass": "BUCLES.BuclesWHILE2",
