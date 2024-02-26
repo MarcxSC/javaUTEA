@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "numerossemana",
+            "request": "launch",
+            "mainClass": "NumerosAleatorios.numerossemana",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "Piedrapapelotijera",
+            "request": "launch",
+            "mainClass": "NumerosAleatorios.Piedrapapelotijera",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio2",
             "request": "launch",
             "mainClass": "NumerosAleatorios.EerciciosDeNumerosAleatorios.Ejercicio2",
