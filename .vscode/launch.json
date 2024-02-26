@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BuclesWHILE2",
+            "request": "launch",
+            "mainClass": "BUCLES.BuclesWHILE2",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "Bucles",
             "request": "launch",
             "mainClass": "tareasDeclase.Bucles",

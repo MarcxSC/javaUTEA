@@ -1,6 +1,6 @@
-package bucles;
+package BUCLES;
 
-public class Bucles {
+public class BuclesFOR {
     public static void main(String[] args) {
         System.out.println("Numeros del 1 al 10" );
         // damos una condicion de conteo
