@@ -13,14 +13,12 @@ public class Ejercicio4 {
         System.out.println("Piensa un número del 0 al 100. Intentaré adivinarlo en 5 intentos.");
         System.out.println("Pulsa la tecla INTRO cuando estés preparado.");
         System.console().readLine();
-    
         do {
           numeroPensado = (int)(Math.random() * (maximo - minimo) + minimo);
           System.out.println("¿Es el " + numeroPensado + "?");
           System.out.print("El número que estás pensando es 1) mayor 2) menor 3) el mismo: ");
           mayorMenorOIgual = Integer.parseInt(System.console().readLine());
           oportunidades--;
-    
           if ( (mayorMenorOIgual == 1) && (oportunidades > 0) )
             minimo = numeroPensado + 1;
           

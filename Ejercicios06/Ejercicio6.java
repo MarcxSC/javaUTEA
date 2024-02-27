@@ -1,19 +1,17 @@
 package Ejercicios06;
 
 public class Ejercicio6 {
-    public static void main(String[] args) throws InterruptedException { // Código que puede lanzar InterruptedException
-        int linea = 0;
-        
-        System.out.print("\033[32m"); // pinta en verde
-        
-        for(int i = 0; i < 8000; i++) {
-          System.out.print((char)(Math.random() * (126 - 32 + 1) + 32));
-          
-          if (linea++ == 60) {
-            linea = 0;
-            Thread.sleep(50);
-            System.out.println();
-          }
+  public static void main(String[] args) {
+    int numRows = 25; // Número de filas
+    int numCols = 80; // Número de columnas
+
+    for (int i = 0; i < numRows; i++) {
+        for (int j = 0; j < numCols; j++) {
+            int asciiValue = (int) (Math.random() * (126 - 32 + 1) + 32);
+            System.out.print((char) asciiValue);
+          System.out.print("\033[32m ");
         }
-      }
+        System.out.println();
+    }
 }
+} 
