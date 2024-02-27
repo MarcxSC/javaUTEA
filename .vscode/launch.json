@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicios1",
+            "request": "launch",
+            "mainClass": "Ejercicios09.Ejercicios1",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "numerossemana",
             "request": "launch",
             "mainClass": "NumerosAleatorios.numerossemana",
