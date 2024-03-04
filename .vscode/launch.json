@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array03",
+            "request": "launch",
+            "mainClass": "ARRAY.Array03",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "NewArray02",
             "request": "launch",
             "mainClass": "ARRAY.NewArray02",
