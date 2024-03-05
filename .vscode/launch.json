@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjerciciosArray05",
+            "request": "launch",
+            "mainClass": "ARRAY.EjerciciosArray05",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio5",
             "request": "launch",
             "mainClass": "EjerciciosArray.Ejercicio5",
