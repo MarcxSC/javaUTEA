@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BuscaTesoro",
+            "request": "launch",
+            "mainClass": "ArrayBidimi.BuscaTesoro",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBi02",
+            "request": "launch",
+            "mainClass": "ArrayBidimi.ArrayBi02",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBi01",
+            "request": "launch",
+            "mainClass": "ArrayBidimi.ArrayBi01",
+            "projectName": "javaUTEA_2403ced3"
+        },
+        {
+            "type": "java",
             "name": "EjerciciosArray05",
             "request": "launch",
             "mainClass": "ARRAY.EjerciciosArray05",
